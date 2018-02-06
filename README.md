@@ -5,7 +5,7 @@
 - Inside "activities" folder create another one called "activity--markup-validation".
 - Create an `index.html` file and paste the below code:
 
-```html
+```
 <html>
   <head></head>
   <body>
@@ -28,8 +28,7 @@
       <p>Problem: I like to keep the desktop clean but I also like to put WIP files there for quick access. <a>Solution: just make it a git folder and use branches.</p>
       </div>
     </section>
-  <>
-</navbar>
+  <</navbar>
 ```
 
 ### Indications
